@@ -31,3 +31,9 @@ for i in range(len(users)):
 for user in users:
     print(user['name'])
     print(user['email'])
+    # if user['name'] == 'Juan777':
+    #     print('Es el Juan')
+    # elif user['name'] == 'Ana':
+    #     print('Es anita')
+    # else:
+    #     print('Es un random')
